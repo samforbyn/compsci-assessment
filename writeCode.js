@@ -22,7 +22,7 @@ const sumZero = arr => {
 // sumZero(array)
 
 // Runtime complexity: O(n^2)
-// Space complexity: O(n^2)
+// Space complexity: O(n)
 
 
 // Unique Characters:
@@ -56,7 +56,7 @@ const pangram = str => {
 console.log(pangram("The Quick Brown Fox Jumps over the lazy dog"))
 
 // Runtime complexity: O(1)
-// Space complexity: O(1)
+// Space complexity: O(n)
 
 
 // Longest word: 
